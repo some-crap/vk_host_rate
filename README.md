@@ -86,15 +86,9 @@
 
 ```json5
 {
-    "host_description": string, // пока только одно поле, 
-    //далее: общие оценки характеристик хостинга. Могут быть дробными
-    "ratings": {
-        "support": number,
-        "network": number,
-        "ram": number,
-        "cpu": number,
-        "billing": number
-    }
+    "host_description": string, 
+    "host_information": string, 
+    "host_site": string,  
 }
 ```
 
