@@ -20,7 +20,7 @@
 
 [![API stability](https://img.shields.io/badge/API%20stability-1%20(Experimental)-red)](https://gist.github.com/isaacs/1776425)
 
-Все запросы делать по адресу https://api.somecrap.ru/host_rate/request.php. Обязательные GET параметры в каждом из методов:
+Все запросы делать по адресу https://api.matveev.app/host_rate/request.php. Обязательные GET параметры в каждом из методов:
 
 | name      | default        | description                  |
 | --------- | -------------- | ---------------------------- |
